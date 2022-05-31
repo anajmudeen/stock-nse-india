@@ -1,7 +1,7 @@
 
 [![NPM](https://nodei.co/npm/stock-nse-india.png)](https://nodei.co/npm/stock-nse-india/)
 
-# National Stock Exchange - India (Unofficial)
+# National Stock Exchange - India (Testing)
 
 ![](https://github.com/hi-imcodeman/stock-nse-india/workflows/CI/badge.svg)
 
